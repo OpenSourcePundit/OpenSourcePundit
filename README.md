@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shashank00098@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N-oKhVh2nTsdyYahseUfvLCQEQkzKoHh/view?usp=drive_link](https://drive.google.com/file/d/1N-oKhVh2nTsdyYahseUfvLCQEQkzKoHh/view?usp=drive_link)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1FKq1ZsFF_Fk8AIAh-bh5DnkeHJ58pfLz/view?usp=drive_link)
 
 - ⚡ Fun fact **Frontend development: Where pixels meet purpose, and creativity sparks usability! Unleashing the frontend superhero within every developer, one component at a time!**
 
